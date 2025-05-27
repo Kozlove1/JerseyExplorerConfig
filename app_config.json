@@ -5,16 +5,16 @@
       "features": {},
 			"recommendations":{
 				"jerseys":[
-					{ "name": "Argentinian Club Football", "icon": "search-dote" },
-					{ "name": "Argentinian 2000", "icon": "search-dote" },
-					{ "name": "Germany 2000 Football Shirts", "icon": "search-dote" },
-					{ "name": "Bayern Munich", "icon": "search-dote" },
-					{ "name": "Brazil Home L", "icon": "search-dote" },
-					{ "name": "1995 Borussia Dortmund", "icon": "search-dote" },
-					{ "name": "Borussia Dortmund", "icon": "search-dote" },
-					{ "name": "Germany Home S", "icon": "search-dote" },
-					{ "name": "Liverpool XL", "icon": "search-dote" },
-					{ "name": "1965 France", "icon": "search-dote" }
+					{ "name": "Argentinian Club Football" },
+					{ "name": "Argentinian 2000"},
+					{ "name": "Germany 2000 Football Shirts"},
+					{ "name": "Bayern Munich" },
+					{ "name": "Brazil Home L" },
+					{ "name": "1995 Borussia Dortmund" },
+					{ "name": "Borussia Dortmund" },
+					{ "name": "Germany Home S" },
+					{ "name": "Liverpool XL" },
+					{ "name": "1965 France" }
 				]
 			}
 		}
